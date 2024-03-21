@@ -1,0 +1,11 @@
+
+†
+java:S22596"DA "NullPointerException" could be thrown; "buffer" is nullable here.(èŸÕ
+8óÚÍƒæ1J$07034fe1-af69-40a1-8337-31f7aa0ea905
+”
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(„ü†Ëúÿÿÿÿ8ôÚÍƒæ1J$ab6874db-da8a-4f7a-92b3-7e2312454552
+l	java:S106#"+Replace this use of System.out by a logger.(¦‹»Z8à­Æƒæ1J$66ed31f8-ce8c-45ca-9b18-4922379efa4b
+l	java:S106'"+Replace this use of System.out by a logger.(‚š‰18á­Æƒæ1J$648feefe-1e68-4386-8c98-842fcd85438b
+m	java:S1061"+Replace this use of System.out by a logger.(áñÁ·8ã­Æƒæ1J$a63d6683-1b32-4d43-b4ed-4f14dca7f6c1
+r	java:S106C"+Replace this use of System.out by a logger.(èà”©üÿÿÿÿ8ä­Æƒæ1J$09424c37-4c42-456a-8abc-83639e5a2a4c
+L	java:S106Q"+Replace this use of System.out by a logger.( ù¯şÿÿÿÿ8Îƒæ1

@@ -1,0 +1,10 @@
+
+”
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(”¿È•ıÿÿÿÿ8®›†„æ1J$4671d1d1-b522-4b62-aee0-798a5033e8d1
+r	java:S106"+Replace this use of System.out by a logger.(¹¼«Òúÿÿÿÿ8·›†„æ1J$f6f258c7-28ae-4dcb-9746-f06877a39dd0
+r	java:S106+"+Replace this use of System.out by a logger.(´Ä¤ùÿÿÿÿ8¹›†„æ1J$672eeaa1-d295-4fa4-81b8-8de42759aefa
+r	java:S1067"+Replace this use of System.out by a logger.(³­’æıÿÿÿÿ8¾›†„æ1J$5c182443-1cde-4d96-9f4c-097b17ae1fc5
+m	java:S106A"+Replace this use of System.out by a logger.(áñÁ·8À›†„æ1J$1491fdb7-70ee-4f52-8191-6fbda26550fc
+r	java:S106B"+Replace this use of System.out by a logger.(¦æşŞúÿÿÿÿ8Æ›†„æ1J$af0407a0-3c49-46a5-a348-850d9ed97979
+m	java:S106I"+Replace this use of System.out by a logger.(³ä¸´8ÄÎŠ„æ1J$8dffd2b9-f770-4cc9-a1e8-c47a87d95a23
+r	java:S106\"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÈÎŠ„æ1J$71be1c6d-b198-4577-8d33-4053a5a7211c
